@@ -1,0 +1,85 @@
+C:/Users/Sina/Desktop/ca2dld/testbench1.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/testbench1.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench1
+
+Top level modules:
+	testbench1
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/ass_multibroadcasting.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/ass_multibroadcasting.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ass_multibroadcasting
+
+Top level modules:
+	ass_multibroadcasting
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/demux_1to4.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/demux_1to4.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module demux_1to4
+
+Top level modules:
+	demux_1to4
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/testbench3.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/testbench3.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench3
+
+Top level modules:
+	testbench3
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/ass_dmx_1to4.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/ass_dmx_1to4.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ass_dmx_1to4
+
+Top level modules:
+	ass_dmx_1to4
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/ass_dmx_1to4_3inputnor.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/ass_dmx_1to4_3inputnor.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ass_dmx_1to4_3inputnor
+
+Top level modules:
+	ass_dmx_1to4_3inputnor
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/testbench2.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/testbench2.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench2
+
+Top level modules:
+	testbench2
+
+} {} {}} C:/altera/13.0sp2/demux_1to4_3inputNor.sv {1 {vlog -work work -sv C:/altera/13.0sp2/demux_1to4_3inputNor.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module demux_1to4_3inputNor
+
+Top level modules:
+	demux_1to4_3inputNor
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/multibroadcasting.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/multibroadcasting.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multibroadcasting
+
+Top level modules:
+	multibroadcasting
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/inv.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/inv.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module inv
+
+Top level modules:
+	inv
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/three_input_NOR.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/three_input_NOR.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module three_input_NOR
+
+Top level modules:
+	three_input_NOR
+
+} {} {}} C:/Users/Sina/Desktop/ca2dld/two_input_NOR.sv {1 {vlog -work work -sv C:/Users/Sina/Desktop/ca2dld/two_input_NOR.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module two_input_NOR
+
+Top level modules:
+	two_input_NOR
+
+} {} {}}
